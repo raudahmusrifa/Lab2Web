@@ -1,4 +1,10 @@
-Program sederhana input data karyawan menggunakan php
+Nama : Raudah Musrifa
+
+Nim : 312210020
+
+Kelas : TI.22.B1
+
+# Program Sederhana Input Data Karyawan Menggunakan PHP
 
 Membuat sebuah porgram sederhana yaitu input data karyawan menggunakan bahasa pemrogramman PHP
 
